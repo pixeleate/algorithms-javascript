@@ -1,6 +1,6 @@
 ## Algorithms and HackerRank solutions written with Javascript ES6
 
-some useful algorithms, most of them used by the big guys (Google, Amazon, Facebook) on their interview process.
+Some useful algorithms, most of them used by the big guys (Google, Amazon, Facebook) on their interview process.
 
 - [ ] Find the nth element in a Fibonacci series.
 - [ ] Given an array of numbers an a target value, find the 2 element that can sum the target value.
@@ -15,10 +15,10 @@ some useful algorithms, most of them used by the big guys (Google, Amazon, Faceb
 - [ ] Array Rotation
 - [ ] Lost Number
 
-### New algorithms or solutions  
+### Do you need new algorithms or solutions?  
 
 If you want an specific solution, please raise an issue.
 
-### Do you want to contribute? go ahead raise a Pull Request
+### Do you want to contribute? create a PR
 
 If you have a different approach or a better performance solution, the only constrain is that must be Javascript ES6 or newer.
