@@ -19,6 +19,6 @@ some useful algorithms, most of them used by the big guys (Google, Amazon, Faceb
 
 If you want an specific solution, please raise an issue.
 
-### Do you want contribute? go ahead raise a Pull Request
+### Do you want to contribute? go ahead raise a Pull Request
 
 If you have a different approach or a better performance solution, the only constrain is that must be Javascript ES6 or newer.
